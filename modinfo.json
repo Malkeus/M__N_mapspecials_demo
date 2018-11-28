@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "mapgen_demo_M",
+    "name": "Compatible Mapgen Demo",
+    "authors": [ "Sunshine" ],
+    "description": "Modded by Malkeus: (Reduced OvermapSpecial occurences to free up slots for other mods) Demo for JSONized mapgens (FEMA, megastore, missile silo).",
+    "category": "buildings",
+    "dependencies": [ "dda" ]
+  }
+]
